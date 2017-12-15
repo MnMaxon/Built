@@ -1,0 +1,25 @@
+# MySQL Info
+MySQL:
+  IP: localhost
+  Username: admin
+  Password: admin
+  Database: Minecraft
+
+# Select what block to use as a trigger block.
+Trigger Block:
+  Type: Dragon Egg
+  Name: '&cTrigger'
+  Lore:
+    - Place this to complete a building
+
+# Drop all the resources when a building gets destroyed because of incorrect rank.
+Drop Resources: false
+
+# Select how much experience points the player will get with a successful build.
+Success Exp: 5
+
+# Select what items the player will get with a successful build. - [itemID] [quantity]
+Success Items:
+  - 89 6
+  - 33 5
+  - 29 64

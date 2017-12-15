@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Citizens">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Citizens.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="http://jd.citizensnpcs.co/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

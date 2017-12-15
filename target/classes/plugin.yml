@@ -1,0 +1,9 @@
+name: Built
+version: 1.0
+main: me.MnMaxon.Built.Built
+softdepend: [Citizens]
+commands:
+  Built:
+    aliases: [/built]
+    description: Displays Built Help
+    usage: /Built
